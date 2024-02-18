@@ -1,0 +1,22 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = central plaza virtual tour sample 
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_B16DFD7F_BB84_CC44_41E2_094E418FDDB7.label = living area 
+panorama_B27467EA_BB85_5C4F_41E0_8205A4299A83.label = living dining entry
+panorama_B274921A_BB85_57CF_41E2_3C8D9D3602A0.label = entrance lobby
+panorama_B274AB60_BB85_347B_41DB_24F92E8EE9D1.label = living area 
+panorama_B27FE4D6_BB85_3C47_41AC_35BAAB7D72F6.label = dining area 
